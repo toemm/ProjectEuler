@@ -3,6 +3,7 @@
 #include "Problem1.h"
 #include "Problem2.h"
 #include "Problem3.h"
+#include "Problem4.h"
 
 int main(int argc, char *argv[]) { 
 
@@ -14,7 +15,10 @@ int main(int argc, char *argv[]) {
 	//problem2.solve();
 
 	Problem3 problem3;
-	problem3.solve();
+	//problem3.solve();
+
+	Problem4 problem4;
+	problem4.solve();
 
 
 	return 0;

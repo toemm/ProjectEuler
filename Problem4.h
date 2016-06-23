@@ -6,7 +6,7 @@
 */
 
 
-class Problem1 {
+class Problem4 {
 public:
 
 
